@@ -1,0 +1,33 @@
+.flex-container {
+    padding:15px 15px;
+    height: 125px;
+    background-color: rgb(238,238,238);
+}
+.placeholder {
+    height: 100px;
+    line-height: 100px;
+    width: 100%;
+}
+.hot{
+      height: 20px;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      border-left:5px rgb(63, 204, 203) solid;
+}
+.last{
+    position: relative;
+      width: 100%;
+      height: 180px;
+}
+.last img{
+    width: 100%;
+    height: 180px;
+}
+.last p{
+    position:absolute;
+    bottom: 0px;
+    color: white;
+    font-size: 12px;
+    margin-left: 15px;
+}
+
